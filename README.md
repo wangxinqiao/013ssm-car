@@ -4,7 +4,7 @@
 
 #### 系统概要
 汽车租赁系统总共分为两个大的模块，分别是系统模块和业务模块。其中系统模块和业务模块底下又有其子模块。
-
+````
 功能模块
 一、业务模块
 1、客户管理
@@ -55,20 +55,24 @@
 用户的添加、修改、删除以及重置密码
 
 5、数据源的监控(druid monitor)
-
+````
 源码获取：[ **点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=111)
 
 #### 技术选型
+````
 1.后台技术选型:SSM(Spring SpringMVC Mybatis)
 2.前端技术选型:LayUI、dtree、echarts
+````
+
 #### 开发环境
+````
 操作系统：Windows 10
 编程语言：Java
 开发工具：IDEA、Navicat、Git
 项目构建：Maven 3.5.2
 服务器：Tomcat 8.5
 数据库：MySQL 8.0
-
+````
 ## 运行截图
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0317/110948_558f9667_863230.jpeg "20210222234155_64461.jpeg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0317/111008_f037b2a1_863230.png "屏幕截图.png")
